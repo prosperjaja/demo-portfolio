@@ -162,17 +162,16 @@ export default function Home() {
               <p
                 className={`text-primary text-justify text-tunes-paragraph font-medium leading-[1.5] ${mulish.className}`}
               >
-                Highly detail-oriented and goal-driven Frontend Web Developer
-                with 4+ years of professional experience building sophisticated
-                web applications and user-centric platforms. Proficient in
-                modern web development technologies, including HTML5, CSS3,
-                Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, Git,
-                and UI component libraries like Mantine, Material UI, and
-                ShadCN. Adept at leading teams and collaborating across
-                functions to deliver innovative solutions. A graduate of
-                Electrical Engineering with a solid foundation in technical
-                problem-solving and a passion for creating exceptional user
-                experiences.
+                Highly detail-oriented and goal-driven Software Engineer with 4+
+                years of professional experience building sophisticated web
+                applications and user-centric platforms. Proficient in modern
+                web development technologies, including HTML5, CSS3, Tailwind
+                CSS, JavaScript, TypeScript, React.js, Next.js, Git, and UI
+                component libraries like Mantine, Material UI, and ShadCN. Adept
+                at leading teams and collaborating across functions to deliver
+                innovative solutions. A graduate of Computer Science with a
+                solid foundation in technical problem-solving and a passion for
+                creating exceptional user experiences.
               </p>
             </div>
           </div>

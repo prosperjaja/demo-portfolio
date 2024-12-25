@@ -11,14 +11,14 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title:
-    "Prosper Jaja - Front-end React Developer based in Ibadan, Nigeria. 📍",
-  description:
-    "A passionate Front-end React Developer based in Ibadan, Nigeria. 📍",
+  title: "Daniel Momodu - Software Engineer based in Lagos, Nigeria. 📍",
+  description: "A passionateSoftware Engineer based in Lagos, Nigeria. 📍",
   keywords: [
     "Software Developer",
     "Javascript",
+    "Python",
     "React",
+    "Django",
     "HTML 5",
     "CSS 3",
     "Frontend Developer",

@@ -79,7 +79,7 @@ export default function Home() {
                 Software Engineer 👋
               </h1>
               <AnimatedText
-                text="Hi, I'm Daneil Momodu. A passionate Software Engineer based
+                text="Hi, I'm Daniel Momodu. A passionate Software Engineer based
                 in Lagos, Nigeria."
                 el="h4"
                 className="text-[clamp(1.2rem,2vw,2rem)] font-semibold text-[#e8e8e8]  relative block  text-center"
